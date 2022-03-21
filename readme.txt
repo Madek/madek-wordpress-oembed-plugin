@@ -3,8 +3,8 @@ Contributors: Madek Project
 Donate link: https://madek.zhdk.ch
 Tags: wordpress, plugin, oembed
 Requires at least: 3.9
-Tested up to: 4.0
-Stable tag: 0.1
+Tested up to: 5.9.2
+Stable tag: 1.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -28,6 +28,9 @@ Installing "madek-oembed" can be done either by searching for "madek-oembed" via
 
 
 == Changelog ==
+
+= 1.0 =
+* Tested with latest WordPress version
 
 = 0.1 =
 * 2017-02-01
